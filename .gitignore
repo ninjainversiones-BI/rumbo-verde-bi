@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Datos sensibles (no subir a GitHub público)
+data/
+matriz/
+
+# Archivos grandes
+*.csv
